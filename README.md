@@ -68,5 +68,5 @@ Se quiser trocar ideia sobre tecnologia, dados, imóveis ou projetos — estou s
 
 🐍 Snake - Visualizando meu histórico de contribuições
 <p align="center">
-  <img src="https://github.com/CairodePaula/Cairodepaula/blob/main/.github/workflows/snake.yml" alt="snake">
+  <img src="https://github.com/CairodePaula/Cairodepaula/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
