@@ -57,3 +57,21 @@ Evoluir como desenvolvedor e analista, expandindo minhas competências em tecnol
 # 📬 Contato
 
 Se quiser trocar ideia sobre tecnologia, dados, imóveis ou projetos — estou sempre aberto a networking!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cairo-de-paula-cunha-gomes-2549072a0/" target="_blank" rel="noopener noreferrer">
+    <img src="./profile.jpg" alt="Cairo — LinkedIn" width="160" style="border-radius:50%;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cairo-de-paula-cunha-gomes-2549072a0/">
+    Conecte-se comigo no LinkedIn
+  </a>
+</p>
+
+
+🐍 Snake - Visualizando meu histórico de contribuições
+<p align="center">
+  <img src="https://github.com/Cairodepaula/Cairodepaula/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
