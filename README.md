@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou Cairo de Paula Cunha Gomes
-# 🔹 Estudante de Engenharia de Software
-# 🔹 Analista de Aquisições Imobiliárias (Properties Acquisition Analyst)
-# 🔹 Apaixonado por tecnologia, dados e construção de soluções eficientes
+# Cairo Gomes
+🔹 Estudante de Engenharia de Software
+🔹 Analista de Aquisições Imobiliárias (Properties Acquisition Analyst)
+🔹 Apaixonado por tecnologia, dados e construção de soluções eficientes
 
 # 🚀 Sobre mim
 
