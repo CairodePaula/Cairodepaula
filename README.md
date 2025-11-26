@@ -22,7 +22,6 @@ Python · Estruturas de Dados · HTML/CSS · Arquitetura de Sistemas · Auditori
 📊
  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cairodepaula&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cairodepaula&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
@@ -30,10 +29,9 @@ Python · Estruturas de Dados · HTML/CSS · Arquitetura de Sistemas · Auditori
 # 🧠 Certificações Relevantes
 
 EF SET English Certificate C2 (76/100)
--
+
 Bootcampinho UI/UX — She is a Creative (Figma, UI, UX)
--
--
+
 # 🛠️ Competências Técnicas
 Python
 HTML & CSS
