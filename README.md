@@ -60,18 +60,13 @@ Se quiser trocar ideia sobre tecnologia, dados, imóveis ou projetos — estou s
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cairo-de-paula-cunha-gomes-2549072a0/" target="_blank" rel="noopener noreferrer">
-    <img src="./profile.jpg" alt="Cairo — LinkedIn" width="160" style="border-radius:50%;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="Cairo — LinkedIn" width="160" style="border-radius:50%;">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cairo-de-paula-cunha-gomes-2549072a0/">
-    Conecte-se comigo no LinkedIn
-  </a>
-</p>
 
 
 🐍 Snake - Visualizando meu histórico de contribuições
 <p align="center">
-  <img src="https://github.com/Cairodepaula/Cairodepaula/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/CairodePaula/Cairodepaula/blob/main/snake-commits.svg" alt="snake">
 </p>
