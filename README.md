@@ -68,5 +68,5 @@ Se quiser trocar ideia sobre tecnologia, dados, imóveis ou projetos — estou s
 
 🐍 Snake - Visualizando meu histórico de contribuições
 <p align="center">
-  <img src="https://github.com/CairodePaula/Cairodepaula/blob/main/snake-commits.svg" alt="snake">
+  <img src="![Cobrinha comendo commits](./snake-commits.svg)" alt="snake">
 </p>
