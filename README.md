@@ -1,4 +1,4 @@
-#                                     Cairo Gomes
+#                                     Cairo Gomes 
 ### 🔹 Estudante de Engenharia de Software
 ### 🔹 Analista de Aquisições Imobiliárias (Properties Acquisition Analyst)
 ### 🔹 Apaixonado por tecnologia, dados e construção de soluções eficientes
