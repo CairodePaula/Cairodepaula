@@ -22,7 +22,7 @@ Python · Estruturas de Dados · HTML/CSS · Arquitetura de Sistemas · Auditori
 📊
  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cairodepaula&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cairodepaula&layout=compact&theme=tokyonight" />
 </p>
 
 ---
